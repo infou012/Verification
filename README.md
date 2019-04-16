@@ -1,2 +1,2 @@
-# Formal Proof using Coq from classes at UPMC and Diderot
+Formals Proofs using Coq from classes at UPMC and Diderot
 
