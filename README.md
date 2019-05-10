@@ -1,2 +1,2 @@
-Formals Proofs using Coq from classes at UPMC and Diderot
+Proofs exercises with Coq from formal verification classes at UPMC and Diderot University
 
